@@ -1,5 +1,7 @@
 body{
-    background-color: rgb(0, 0, 0);
+    background-color: #060606;
+    padding-bottom: 0px;
+   
    
 }
 .bg{
@@ -11,4 +13,7 @@ body{
 }
 .colors{
     color: #000000;
+}
+a{
+    text-decoration: none;
 }
