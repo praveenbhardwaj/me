@@ -29,3 +29,6 @@ a{
         background-color:#1A1A1A;
         
 }
+input, select, textarea{
+    color:white;
+}
