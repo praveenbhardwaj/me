@@ -4,9 +4,7 @@ body{
    
    
 }
-.mainpage{
-    overflow: hidden;
-}
+
 .about-new{
    float: right;
    height:100%;
@@ -26,6 +24,9 @@ body{
         left:0;
         right:0;
         left:0;
+    }
+    .mainpage{
+        overflow: hidden;
     }
     
   }
