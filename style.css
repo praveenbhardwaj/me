@@ -5,25 +5,27 @@ body{
    
 }
 
-.about-new{
-   float: right;
-   height:100%;
-   width:100%;
-  
-}
+
 @media only screen and (min-width: 1025px) {
     .about-new .bd-placeholder-img{
         float: right;
         top:0;
-        margin-top:95px;
-        margin-right:5rem;
+        margin-top:120px;
+        margin-right:0;
+        float: right;
+        height:100%;
+        width:80%;
+       
     }
+    .about-new{
+ 
+     }
     .about-new{
         position: fixed;
         top: 0;
-        left:0;
+        left:10;
         right:0;
-        left:0;
+
     }
     .mainpage{
         overflow: hidden;
